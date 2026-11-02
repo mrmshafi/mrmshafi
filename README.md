@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mrmshafi/mrmshafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Engr. Mamunur Rashid 👋
 
-Here are some ideas to get you started:
+### Welcome to my GitHub profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/mrmshafi)
+
+</div>
+
+---
+
+## About Me
+
+I build, experiment, and share my projects here.
+
+## Featured Projects
+
+### Telemedicine App
+[View Repository](https://github.com/mrmshafi/telemedicine-app)
+
+### Todo Project
+[View Repository](https://github.com/mrmshafi/test-todo)
+
+## Technology Stack
+
+<!-- এখানে আপনি যেসব প্রযুক্তি ব্যবহার করেন সেগুলো লিখুন। -->
+
+## Connect With Me
+
+<!-- এখানে আপনার portfolio, LinkedIn ও business email যুক্ত করুন। -->
